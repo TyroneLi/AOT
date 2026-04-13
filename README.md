@@ -36,4 +36,4 @@ If you use AOT in academic or industrial research, please cite:
 - **Model weights**: Adobe Research License (see `LICENSE-WEIGHTS`).  The model weights are **not** covered by the MIT License.
 
 ## Acknowledgements
-Our codebase builds upon several excellent open-source projects: [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT), [lmms-eval](https://github.com/evolvinglmms-lab/lmms-eval).ß
+Our codebase builds upon several excellent open-source projects: [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT), [lmms-eval](https://github.com/evolvinglmms-lab/lmms-eval).

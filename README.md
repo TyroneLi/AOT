@@ -1,6 +1,12 @@
 <div align="center">
 	<h1>AOT: Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models</h1>
 	<a href="https://arxiv.org/abs/2603.01400"><img src="https://img.shields.io/badge/arXiv-2603.01400-b31b1b" alt="arXiv"></a>
+  <p align="center">
+      <a href="https://tyroneli.github.io/" style="color:blue;">Jinlong Li</a> ·
+      <a href="https://openreview.net/profile?id=~Liyuan_Jiang1" style="color:blue;">Liyuan Jiang</a> ·
+      <a href="https://zchoi.github.io/" style="color:blue;">Haonan Zhang</a> ·
+      <a href="https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en" style="color:blue;">Nicu Sebe</a>
+  </p>
 	<a href="https://tyroneli.github.io/AOT"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
 </div>
 

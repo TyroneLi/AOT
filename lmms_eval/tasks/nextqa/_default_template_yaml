@@ -1,0 +1,8 @@
+dataset_path: /leonardo_work/IscrC_RLPV/CVPR2026_datas/datasets/lmms-lab/NExTQA # lmms-lab/NExTQA
+dataset_kwargs:
+  token: True
+  # video: True
+  cache_dir: /leonardo_work/IscrC_RLPV/CVPR2026_datas/datasets/lmms-lab/NExTQA  # nextqa
+metadata:
+  version: 0.0.1
+  load_package: True

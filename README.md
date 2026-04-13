@@ -10,7 +10,7 @@
 
 
 ## Quick Start
-Under cleaning and organizing.
+Under cleaning and organizing, stay tuned.
 ### 1. Create the environment
 TBD
 ### 2. Download or place checkpoints

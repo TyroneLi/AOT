@@ -8,6 +8,7 @@
       <a href="https://zchoi.github.io/" style="color:blue;">Haonan Zhang</a> ·
       <a href="https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en" style="color:blue;">Nicu Sebe</a>
   </p>
+  <h2 align="center">CVPR 2026</h2>
 </div>
 
 ![overview](assets/motivation.png)

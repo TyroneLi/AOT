@@ -484,3 +484,4 @@ def run_task_tests(task_list: List[str]):
     pytest_return_val = pytest.main(args)
     if pytest_return_val:
         raise ValueError(f"Not all tests for the specified tasks ({task_list}) ran successfully! Error code: {pytest_return_val}")
+

@@ -16,3 +16,4 @@ def visionzip(model):
     LlavaMetaForCausalLM.encode_images_multi = LlavaMetaForCausalLM_visionzip.encode_images_multi
     
     return model
+

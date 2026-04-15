@@ -23,7 +23,7 @@ Overall pipeline of our AOT. Our method compresses tokens of video LLMs across s
 
 #### 🔥🔥🔥 News
 
-- **2026-02-21:** HoliTom has been accepted by **CVPR'26 main track** 🎉
+- **2026-02-21:** AOT has been accepted by **CVPR'26 main track** 🎉
 - **2026-04-13:** The repo, paper, and webpage is released.
 
 

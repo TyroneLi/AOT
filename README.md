@@ -28,7 +28,7 @@ Overall pipeline of our AOT. Our method compresses tokens of video LLMs across s
 
 
 ## Quick Start
-Under cleaning and organizing, stay tuned.
+
 ### 1. 🛠️ Create the environment
 ```
 git clone https://github.com/TyroneLi/AOT

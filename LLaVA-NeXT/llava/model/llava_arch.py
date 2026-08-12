@@ -1151,7 +1151,7 @@ class LlavaMetaForCausalLM(ABC):
                                 image_feature = torch.cat(all_image_tokens, dim=0)  
                             # import pdb;pdb.set_trace()
 
-                            if not os.getenv('EGOSCHEMA_UNPAD', "False")
+                            if not os.getenv('EGOSCHEMA_UNPAD', "False"):
                                 if 'unpad' in mm_patch_merge_type:
                                     image_feature = torch.cat((
                                         image_feature,

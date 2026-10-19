@@ -27,10 +27,10 @@ Overall pipeline of our AOT. Our method compresses tokens of video LLMs across s
 - **2026-04-13:** The repo, paper, and webpage is released.
 
 ## Todo List
-- [] Qwen2.5-VL results
-- [] Qwen3-VL results
-- [] MLVU benchmark results
-- [] LVBench benchmark results
+- [ ] Qwen2.5-VL results
+- [ ] Qwen3-VL results
+- [ ] MLVU benchmark results
+- [ ] LVBench benchmark results
 
 ## Quick Start
 

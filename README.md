@@ -26,6 +26,11 @@ Overall pipeline of our AOT. Our method compresses tokens of video LLMs across s
 - **2026-02-21:** AOT has been accepted by **CVPR'26 main track** 🎉
 - **2026-04-13:** The repo, paper, and webpage is released.
 
+## Todo List
+- [X] Qwen2.5-VL results
+- [X] Qwen3-VL results
+- [X] MLVU benchmark results
+- [X] LVBench benchmark results
 
 ## Quick Start
 
